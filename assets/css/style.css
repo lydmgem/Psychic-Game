@@ -1,0 +1,23 @@
+.container, .jumbotron, body, html {
+    text-align: center;
+    background-color: #0e1b29;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Unlock', cursive;
+    font-size: 60px;
+    
+}
+
+#paragraph {
+    font-family: 'Unlock', cursive;
+    font-size: 30px;
+    border-bottom: 1px;
+    border-bottom-color: white;
+    color:  #fdfbe4;
+}
